@@ -41,22 +41,22 @@
 ## 📄 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hugogarman&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hugogarman"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&langs_count=6&layout=compact&bg_color=transparent" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugogarman&langs_count=6&layout=compact&bg_color=transparent" />
 </p>
 
 </br>
 
 ## 📬 Connect with Me
 
-<a href="mailto:tu-email@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tu-perfil/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hugogarman79@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
+<a href="http://linkedin.com/in/hugo-garcia-mancha-929363356/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 
 <div align="center">
 <br>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tu-usuario}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hugogarman}/count.svg" /></p> 
 </div>
