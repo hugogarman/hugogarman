@@ -9,7 +9,6 @@
 ## ⚡ About Me
 
 - 🔧 Currently working on... Kotlin projects to level up my skills
-- 📱 Learning... Android Development
 - 🤖 Curious about... AI and its applications
 - 💡 I love programming and building stuff
 - 🎓 19 years old, studying at IES Alonso de Madrigal
@@ -20,8 +19,8 @@
 
 #### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
@@ -38,25 +37,8 @@
 
 </br>
 
-## 📄 Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hugogarman&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hugogarman"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugogarman&langs_count=6&layout=compact&bg_color=transparent" />
-</p>
-
-</br>
-
 ## 📬 Connect with Me
 
 <a href="mailto:hugogarman79@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
-<a href="http://linkedin.com/in/hugo-garcia-mancha-929363356/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="http://linkedin.com/in/hugo-garcia-mancha-929363356/"><img width="85px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 
-<div align="center">
-<br>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hugogarman}/count.svg" /></p> 
-</div>
